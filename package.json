@@ -1,0 +1,26 @@
+{
+  "name": "react101",
+  "version": "1.0.0",
+  "description": "In depth react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepkumardev/react101.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "sandeep-kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepkumardev/react101/issues"
+  },
+  "homepage": "https://github.com/sandeepkumardev/react101#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
